@@ -22,7 +22,6 @@ XXXXXXXX
 |  CASIA-CXR (ours) |       5,5K      |      5,5K      |      5,5K     |       CL/R      |        21        |         4,5K         |  947 |   /  |     JPEG     |      RIR/RP     |      French     |     2023     |
 
 
-
 📄 Human Evaluation
 
 |      Criteria     | Baseline | Variants | Variants |
