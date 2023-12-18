@@ -7,9 +7,8 @@ Medical report generation (MRG), which aims to automatically generate a textual 
 XXXXXXXX
 
 📄 XXXXXXXXXXXX
-|      Dataset      | Patients Number | Studies Number | Images Number | Annotation Type | Annotated Labels | Images View Position |      |      | Image Format | Labeling Method | Report Language | Release Year |
+|      Dataset      | Patients Number | Studies Number | Images Number | Annotation Type | Annotated Labels | PA View | AP View  | L View    | Image Format | Labeling Method | Report Language | Release Year |
 |:-----------------:|:---------------:|:--------------:|:-------------:|:---------------:|:----------------:|:--------------------:|:----:|:----:|:------------:|:---------------:|:---------------:|:------------:|
-|                   |                 |                |               |                 |                  |          PA          |  AP  |   L  |              |                 |                 |              |
 | Shenzhen Hospital |        /        |        /       |      340      |        Cl       |         2        |          340         |   /  |   /  |     DICOM    |        RI       |     English     |     2014     |
 |      IU X-ray     |       3,9K      |      3,9K      |      7,4K     |        R        |         /        |         3,9K         |   /  | 3,9K |     JPEG     |        RI       |     English     |     2016     |
 |   Chest X-ray 14  |       31K       |        /       |      112K     |     CL / BB     |        14        |          67K         |  45K |   /  |      PNG     |      RP/RI      |     English     |     2017     |
