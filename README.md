@@ -70,11 +70,6 @@ models
 
 
 
-
-
-
-
-
 ## 📔 Figures
 📑  Sample of our medical reports in French
 ![](https://metmer.net/CASIA-CXR/Img/SampleReports.png)
@@ -83,8 +78,7 @@ models
 ![](https://metmer.net/CASIA-CXR/Img/Matrix.jpg)
 
 📑 Natural Language Generation (NLG) performance
-![](https://metmer.net/CASIA-CXR/Img/img2.png)
-
+![](https://metmer.net/CASIA-CXR/Img/imgp.jpng)
 
 ## 📔 Contact
 * Please refer to our website at: www.casia-cxr.net
