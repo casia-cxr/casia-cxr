@@ -8,7 +8,7 @@ Medical report generation (MRG), which aims to automatically generate a textual 
 * To request the full dataset, please contact us at: [Link](https://www.casia-cxr.net/Downloads.html#RequestCompleteDataset)
 
 ## 📔 Tables
-📑 Disease Classification Performance
+📑 *Disease Classification Performance*
 |  | Disease | Accuracy | Precision | Recall | F1-Score | Support |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Global Labels | Cardiomegaly | 0.830 | 0.937 | 0.825 | 0.877 | 3,756 |
@@ -37,13 +37,13 @@ Medical report generation (MRG), which aims to automatically generate a textual 
 |  | Fracture | 0.570 | 0.235 | 0.160 | 0.190 | 572 |
 |  | Tuberculosis | 0.823 | 0.863 | 0.683 | 0.763 | 558 |
 
-📑 Intra-language evaluation performance compared to ground truth
+📑 *Intra-language evaluation performance compared to ground truth*
 | Dataset | NLG Metrics |  NLG Metrics |  NLG Metrics |  NLG Metrics | CE Metrics | CE Metrics | CE Metrics |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  | BLEU-1 | BLEU-4 | ROUGE-L | METEOR | Precision | Recall | F-1 |
 | CASIA-CXR | 0.404 | 0.177 | 0.341 | 0.158 | 0.705 | 0.630 | 0.665 |
 
-📑 Cross-language evaluation using NLG and CE Metrics against English-language models
+📑 *Cross-language evaluation using NLG and CE Metrics against English-language models*
 | Dataset | Model | NLG Metrics | NLG Metrics | NLG Metrics | NLG Metrics  | CE Metrics | CE Metrics | CE Metrics |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 |  | / | BLEU-1 | BLEU-4 | ROUGE-L | METEOR | Precision | Recall | F-1 |
@@ -62,11 +62,11 @@ Medical report generation (MRG), which aims to automatically generate a textual 
 | CASIA-CXR (Ours) | Ours | 0.357 | 0.197 | 0.314 | 0.177 | 0.340 | 0.437 | 0.384 |
 
 ## 📔 Figures
-📑  Samples of our medical reports in French
+📑  *Samples of our medical reports in French*
 ![](https://metmer.net/CASIA-CXR/Img/SampleReports.png)
-📑 The confusion matrix for disease classification performance
+📑 *The confusion matrix for disease classification performance*
 ![](https://metmer.net/CASIA-CXR/Img/Matrix.jpg)
-📑 Natural Language Generation (NLG) performance
+📑 *Natural Language Generation (NLG) performance*
 ![](https://metmer.net/CASIA-CXR/Img/Imgp.jpg)
 
 ## 📔 Contact
