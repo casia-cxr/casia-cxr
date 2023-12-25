@@ -12,6 +12,8 @@ Medical report generation (MRG), which aims to automatically generate a textual 
 ![](https://metmer.net/CASIA-CXR/Img/Imgp.jpg)
 📑*Cross-Language Performance Evaluation on MIMIC-CXR dataset*
 ![](https://metmer.net/CASIA-CXR/Img/Figure_1.png)
+📑*Cross-Language Performance Evaluation on MIMIC-CXR dataset*
+![](https://metmer.net/CASIA-CXR/Img/downloadv.png)
 📑 *Cross-Language Performance Evaluation on Open-i dataset*
 ![](https://metmer.net/CASIA-CXR/Img/Figure_2.png)
 
