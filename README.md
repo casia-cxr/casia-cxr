@@ -10,6 +10,10 @@ Medical report generation (MRG), which aims to automatically generate a textual 
 ![](https://metmer.net/CASIA-CXR/Img/Matrix.jpg)
 📑 *Natural Language Generation (NLG) performance*
 ![](https://metmer.net/CASIA-CXR/Img/Imgp.jpg)
+📑 XXXXXXXXX
+![](https://metmer.net/CASIA-CXR/Img/Figure_1.png)
+📑 XXXXXXXXXXXX
+![](https://metmer.net/CASIA-CXR/Img/Figure_2.png)
 
 ## 📔 Links
 * To download a sample of our dataset: [Link](https://metmer.net/CASIA-CXR/Download/Download.php)
