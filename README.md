@@ -70,4 +70,4 @@ Medical report generation (MRG), which aims to automatically generate a textual 
 ![](https://metmer.net/CASIA-CXR/Img/Imgp.jpg)
 
 ## 📔 Contact
-* #
+* please refer to: XXXX
