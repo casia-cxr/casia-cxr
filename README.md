@@ -63,7 +63,7 @@ Medical report generation (MRG), which aims to automatically generate a textual 
 
 ## 📔 Figures
 📑  *Samples of our medical reports in French*
-![](https://metmer.net/CASIA-CXR/Img/SampleReports.png)
+![](https://metmer.net/CASIA-CXR/Img/sample.jpg)
 📑 *The confusion matrix for disease classification performance*
 ![](https://metmer.net/CASIA-CXR/Img/Matrix.jpg)
 📑 *Natural Language Generation (NLG) performance*
