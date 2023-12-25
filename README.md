@@ -62,7 +62,7 @@ Medical report generation (MRG), which aims to automatically generate a textual 
 | CASIA-CXR (Ours) | Ours | 0.357 | 0.197 | 0.314 | 0.177 | 0.340 | 0.437 | 0.384 |
 
 ## 📔 Figures
-📑  Sample of our medical reports in French
+📑  Samples of our medical reports in French
 ![](https://metmer.net/CASIA-CXR/Img/SampleReports.png)
 📑 The confusion matrix for disease classification performance
 ![](https://metmer.net/CASIA-CXR/Img/Matrix.jpg)
