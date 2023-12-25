@@ -78,7 +78,7 @@ models
 ![](https://metmer.net/CASIA-CXR/Img/Matrix.jpg)
 
 📑 Natural Language Generation (NLG) performance
-![](https://metmer.net/CASIA-CXR/Img/imgp.jpg)
+![](https://metmer.net/CASIA-CXR/Img/Imgp.jpg)
 
 ## 📔 Contact
 * Please refer to our website at: www.casia-cxr.net
