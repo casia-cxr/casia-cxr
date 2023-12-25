@@ -17,4 +17,4 @@ Medical report generation (MRG), which aims to automatically generate a textual 
 
 
 ## 📔 Contact
-* please refer to: XXXX
+* @
