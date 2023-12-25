@@ -16,8 +16,8 @@ Medical report generation (MRG), which aims to automatically generate a textual 
 ![](https://metmer.net/CASIA-CXR/Img/Figure_2.png)
 
 ## 📔 Links
-* To download a sample of our dataset at: [Link](https://metmer.net/CASIA-CXR/Download/Download.php)
-* To request the full dataset, please contact us at: [Link](https://www.casia-cxr.net/Downloads.html#RequestCompleteDataset)
+📥 To download a sample of our dataset at: [Link](https://metmer.net/CASIA-CXR/Download/Download.php)
+📥 To request the full dataset, please contact us at: [Link](https://www.casia-cxr.net/Downloads.html#RequestCompleteDataset)
 
 ## 📔 Contact
 * @
